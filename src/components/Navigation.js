@@ -1,5 +1,9 @@
 import React from 'react';
 
+// STEP 3: SET UP NAVIGATION
+  // IMPORT LINK
+  // ADD <LINK TO='{USUAL HREF}' FOR EACH ROUTE
+
 const Navigation = () => {
   return (
     <div>
